@@ -1,2 +1,2 @@
 # project-Amazon 
-this is an amazon project
+this is an amazon clone project
